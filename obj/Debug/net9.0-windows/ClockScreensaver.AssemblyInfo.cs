@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClockScreensaver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe589057e790973222697a3f75f158157bd36ece")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClockScreensaver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClockScreensaver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

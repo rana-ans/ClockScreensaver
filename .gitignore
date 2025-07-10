@@ -1,0 +1,9 @@
+bin/
+obj/
+*.user
+*.suo
+*.tmp
+*.cache
+*.log
+.vscode/
+.fake
